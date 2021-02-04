@@ -1,4 +1,4 @@
-﻿# DataBus
+# DataBus
 
 ## Descripion
 DataBus is a small custom libary to creat data transmittion bus between different instants.
@@ -13,4 +13,4 @@ Bus is the backbone of the data transmittion you are recommanded to create it in
  - Message		The body of data. [IMessage] is provided to create your message class
  - Logger		Data bus logger. [ILogger] is provided for create your logger or attach to external logger.
 
- A simple project for understanding 
+ A sample project is added for understanding the use of DataBus.
